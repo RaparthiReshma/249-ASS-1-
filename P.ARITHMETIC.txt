@@ -1,0 +1,23 @@
+//Arithmetic operations program using python//
+
+a=int(input("Enter the value for a:"))
+b=int(input("Enter the value for b:"))
+print("sum of a and b=",a+b)
+print("subtraction a and b=",a-b)
+print("multiplication of and b=",a*b)
+print("division of a and b=",a/b)
+print("modulo division of a and b=",a%b)
+print("exponentation of a and b=",a**b)
+print("floor division of a and b=",a//b)
+
+//OUTPUT//
+Enter the value for a:30
+Enter the value for b:5
+sum of a and b= 35
+subtraction a and b= 25
+multiplication of and b= 150
+division of a and b= 6.0
+modulo division of a and b= 0
+exponentation of a and b= 24300000
+floor division of a and b= 6
+> 
